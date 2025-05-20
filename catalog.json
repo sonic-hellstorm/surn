@@ -1,14 +1,22 @@
 [
   {
     "title": "Inception",
-    "description": "Un voleur qui dérobe des secrets grâce à la technologie du rêve partagé.",
-    "link": "https://tonserveur.com/videos/inception.mp4",
-    "cover": "https://tonserveur.com/covers/inception.jpg"
+    "cover": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
+    "rating": 8.8,
+    "genres": ["Action", "Science-Fiction", "Thriller"],
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "description": "Un voleur qui dérobe des secrets à travers l'infiltration des rêves...",
+    "releaseDate": "2010-07-16",
+    "video": "https://uqload.net/embed-oj0yzfdd8fe9.html"
   },
   {
-    "title": "Breaking Bad S01E01",
-    "description": "Un professeur de chimie commence une nouvelle vie dans la drogue.",
-    "link": "https://tonserveur.com/series/breakingbad-s01e01.mp4",
-    "cover": "https://tonserveur.com/covers/breakingbad.jpg"
+    "title": "Interstellar",
+    "cover": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/1pnigkWWy8W032o9TKDneBa3eVK.jpg",
+    "rating": 8.6,
+    "genres": ["Aventure", "Drame", "Science-Fiction"],
+    "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "description": "Un groupe d'explorateurs voyage à travers un trou de ver...",
+    "releaseDate": "2014-11-07",
+    "video": "https://uqload.net/embed-v8dv65a48f6x.html"
   }
 ]
