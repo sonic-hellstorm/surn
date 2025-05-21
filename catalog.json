@@ -2,7 +2,6 @@
   {
     "title": "Inception",
     "cover": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/aej3LRUga5rhgkmRP6XMFw3ejbl.jpg",
-    "rating": 8.8,
     "genres": ["Action", "Science-Fiction", "Aventure"],
     "type": "movie",
     "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ken Watanabe"],
@@ -13,7 +12,6 @@
   {
     "title": "Interstellar",
     "cover": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/1pnigkWWy8W032o9TKDneBa3eVK.jpg",
-    "rating": 8.6,
     "genres": ["Aventure", "Drame", "Science-Fiction"],
     "type": "movie",
     "cast": ["Matthew McConaughey", "Anne Hathaway", "Michael Caine"],
@@ -24,12 +22,21 @@
   {
     "title": "Mercredi - Saison 1",
     "cover": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qbVI8QvxQ6se1LxCQMx6lhH13gf.jpg",
-    "rating": "8",
     "genres": ["Science-Fiction & Fantastique", "Mystère", "Comédie"],
     "type": "series",
     "cast": ["Jenna Ortega", "Emma Myers", "Joy Sunday"],
     "description": "Mercredi Addams est envoyée par ses parents, Gomez et Morticia, au sein de la Nevermore Academy, à Jericho dans le Vermont, après avoir été une nouvelle fois expulsée d'un lycée. Nevermore est un établissement pour enfants particuliers, dirigé d'une main de fer par Larissa Weems, l'ancienne colocataire de Morticia lorsque toutes deux y étaient étudiantes. Mercredi doit alors appréhender cette nouvelle vie, tout en enquêtant sur une série de meurtres qui terrorisent Jericho et en essayant de maîtriser les visions qu'elle a depuis quelques mois.",
     "releaseDate": "2022",
     "video": ["https://uqload.net/embed-cnwdosp0phn3.html", "https://uqload.net/embed-10vjhv01brwp.html", "https://uqload.net/embed-2zofc57zso8q.html", "https://uqload.net/embed-731qrso74ll4.html", "https://uqload.net/embed-az4x45rv6fg5.html", "https://uqload.net/embed-f6jo8hxkibds.html", "https://uqload.net/embed-fkf566mq85z3.html", "https://uqload.net/embed-c1tr8v9sakrh.html"]
+  },
+  {
+    "title": "Zootopie",
+    "cover": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/xEx4dHi2IrTB0vkVPccrGrMcZQW.jpg",
+    "genres": ["Animation", "Aventure", "Familial", "Comédie"],
+    "type": "movie",
+    "cast": ["Jason Bateman", "Ginnifer Goodwin", "Idris Elba"],
+    "description": "Avec ses quartiers comme la très chic Place du Sahara ou le glacial Toundraville, la métropole Zootopie, où ne vivent que des mammifères, est un melting pot où toutes les espèces cohabitent. Qu’on soit un énorme éléphant ou une minuscule musaraigne, tout le monde y a sa place. Mais quand l’optimiste agent Judy Hopps arrive en ville, elle découvre qu’être le premier lapin dans la police, au milieu d'animaux costauds, n’est pas si simple. Pour faire ses preuves, elle décide de résoudre une enquête, même si pour cela, elle doit faire équipe avec Nick Wilde, un renard beau parleur et roi de l’arnaque. Certaines séquences ou certains motifs lumineux clignotants sont susceptibles d'affecter les téléspectateurs photosensibles.",
+    "releaseDate": "2016",
+    "video": ["https://uqload.net/embed-zml4060d6wiv.html"]
   }
 ]
