@@ -448,5 +448,15 @@
     "description": "Natasha Romanoff, alias Black Widow, voit resurgir la part la plus sombre de son passé pour faire face à une redoutable conspiration liée à sa vie d’autrefois. Poursuivie par une force qui ne reculera devant rien pour l’abattre, Natasha doit renouer avec ses activités d’espionne et avec des liens qui furent brisés, bien avant qu’elle ne rejoigne les Avengers.",
     "releaseDate": "2021",
     "video": "https://uqload.net/embed-h9skgdzozbom.html"
+  },
+  {
+    "title": "The Electric State",
+    "cover": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wON7eLWlcaUIx9thwCRTeldqUBO.jpg",
+    "genres": ["Science-Fiction", "Aventure", "Action"],
+    "type": "movie",
+    "cast": ["Millie Bobby Brown", "Chris Pratt", "Jason Alexander"],
+    "description": "Une adolescente orpheline prend la route avec un mystérieux robot pour retrouver son frère disparu et ne tarde pas à faire équipe avec un contrebandier et son malicieux acolyte.",
+    "releaseDate": "2025",
+    "video": "https://uqload.net/embed-fip4bw1dbdkb.html"
   }
 ]
