@@ -438,5 +438,15 @@
     "description": "Jessica Murdock est une femme en fuite qui tente désespérément d’échapper aux autorités en traversant la frontière canadienne. Elle est traquée par Elsa Gray, qui n’est ni policière ni agente fédérale, mais plutôt une mercenaire qui a un don pour retrouver les personnes qui tentent de disparaître. Alors que la poursuite se resserre, des corps sont retrouvés sur le chemin de Jessica. La confrontation entre ces deux femmes, en quête de sens et de rédemption, semble inévitable.",
     "releaseDate": "2024",
     "video": "https://uqload.net/embed-5lzazacjmoez.html"
+  },
+  {
+    "title": "Black Widow",
+    "cover": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/tIdq9lGrbSsq3RkgB9r0g0vYTbl.jpg",
+    "genres": ["Action", "Aventure", "Science-Fiction"],
+    "type": "movie",
+    "cast": ["Scarlett Johansson", "Florence Pugh", "Rachel Weisz"],
+    "description": "Natasha Romanoff, alias Black Widow, voit resurgir la part la plus sombre de son passé pour faire face à une redoutable conspiration liée à sa vie d’autrefois. Poursuivie par une force qui ne reculera devant rien pour l’abattre, Natasha doit renouer avec ses activités d’espionne et avec des liens qui furent brisés, bien avant qu’elle ne rejoigne les Avengers.",
+    "releaseDate": "2021",
+    "video": "https://uqload.net/embed-h9skgdzozbom.html"
   }
 ]
