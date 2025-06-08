@@ -468,5 +468,25 @@
     "description": "Victime d’un complot, le jeune Edmond Dantès est arrêté le jour de son mariage pour un crime qu’il n’a pas commis. Après quatorze ans de détention au château d’If, il parvient à s’évader. Devenu immensément riche, il revient sous l’identité du comte de Monte-Cristo pour se venger des trois hommes qui l’ont trahi.",
     "releaseDate": "2024",
     "video": "https://uqload.net/embed-r7a3s6hhtnpo.html"
+  },
+  {
+    "title": "Lazarus",
+    "cover": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/j5Tvg6cF4jM2nB9YrjQ3Jiq3PBn.jpg",
+    "genres": ["Science-Fiction & Fantastique", "Action & Adventure", "Animation"],
+    "type": "series",
+    "cast": ["Mamoru Miyano", "Makoto Furukawa", "Maaya Uchida"],
+    "description": "En 2052, un scientifique crée un médicament qui guérit toutes les maladies, mais annonce trois ans plus tard que tous ceux qui l'ont pris mourront bientôt. Une équipe de 5 agents, appelée \"Lazarus\", doit trouver le scientifique et développer un vaccin avant qu'il ne soit trop tard.",
+    "releaseDate": "2025",
+    "video": ["https://bigwarp.io/embed-dv7i287cg82v.html", "https://bigwarp.io/embed-smzb4xcq3u1y.html", "https://bigwarp.io/embed-6pa4gdn87jyk.html", "https://bigwarp.io/embed-xv0nxsx669fz.html", "https://bigwarp.io/embed-m5fuae4cyvm1.html", "https://bigwarp.io/embed-1tv40usvjuqw.html", "https://bigwarp.io/embed-obneh5hbq5wm.html", "https://bigwarp.io/embed-brvs3cv1b9vq.html", "https://bigwarp.io/embed-7enyjpholpno.html", "https://bigwarp.io/embed-95b6pbi1hrsm.html"]
+  },
+  {
+    "title": "Flavors of Youth",
+    "cover": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
+    "genres": ["Animation", "Romance", "Drame"],
+    "type": "movie",
+    "cast": ["Taito Ban", "Mariya Ise", "Minako Kotobuki"],
+    "description": "Un bol de nouilles fumant de souvenirs, le nouveau souffle d'une beauté sur le déclin, la réapparition d'un premier amour. Trois contes de la vie en Chine urbaine…",
+    "releaseDate": "2018",
+    "video": "https://bigwarp.io/embed-uzrvaik6jgsl.html"
   }
 ]
