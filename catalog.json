@@ -823,5 +823,27 @@
     "releaseDate": "2025",
     "video": "https://vidzy.org/embed-076h16h1kg5r.html",
     "trailer": "https://youtube.com/embed/qu5n7RALVpE"
+  },
+  {
+    "title": "Avatar",
+    "cover": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v5Y8pVwJK68SKQQ1GRbIB1hkPDy.jpg",
+    "genres": ["Action", "Aventure", "Fantastique", "Science-Fiction"],
+    "type": "movie",
+    "cast": ["Sam Worthington", "Zoe Saldaña", "Sigourney Weaver"],
+    "description": "Un marine paraplégique, envoyé sur la lune Pandora pour une mission unique, est tiraillé entre suivre ses ordres et protéger le monde qu'il considère dorénavant comme le sien.",
+    "releaseDate": "2009",
+    "video": "https://vidzy.org/embed-ybuy6pwvrpwx.html",
+    "trailer": "https://youtube.com/embed/MJ3Up7By5cw"
+  },
+  {
+    "title": "Avatar : La Voie de l'eau",
+    "cover": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kQYx143yujkwyjJdZH2skOGeQfA.jpg",
+    "genres": ["Science-Fiction", "Aventure", "Action"],
+    "type": "movie",
+    "cast": ["Sam Worthington", "Zoe Saldaña", "Sigourney Weaver"],
+    "description": "Une dizaine d'années s'est écoulée depuis les précédents évènements survenus sur Pandora. Jake Sully et Neytiri sont devenus parents. Leur vie idyllique, proche de la nature, est menacée lorsque la « Ressources Développement Administration », dangereuse organisation non-gouvernementale, est de retour sur Pandora. Contraints de quitter leur habitat naturel, Jake et sa famille se rendent sur les récifs, où ils pensent trouver asile. Mais ils tombent sur un clan, les Metkayina, aux mœurs différentes des leurs.",
+    "releaseDate": "2022",
+    "video": "https://vidzy.org/embed-o1jawb7xkofc.html",
+    "trailer": "https://youtube.com/embed/V_pb0BT2USk"
   }
 ]
