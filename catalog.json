@@ -845,5 +845,16 @@
     "releaseDate": "2022",
     "video": "https://vidzy.org/embed-o1jawb7xkofc.html",
     "trailer": "https://youtube.com/embed/V_pb0BT2USk"
+  },
+  {
+    "title": "Les 4 Fantastiques : Premiers pas",
+    "cover": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
+    "genres": ["Science-Fiction", "Aventure"],
+    "type": "movie",
+    "cast": ["Pedro Pascal", "Vanessa Kirby", "Ebon Moss-Bachrach"],
+    "description": "Dans le contexte vibrant d’un monde rétro-futuriste inspiré des années 60, le film présente la première famille de Marvel : Reed Richards/Mister Fantastic, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose alors qu’ils font face à leur défi le plus redoutable à ce jour. Contraints d’équilibrer leur rôle de héros avec la force de leur lien familial, ils doivent défendre la Terre contre un dieu spatial vorace appelé Galactus et son énigmatique héraut, le Surfeur d’Argent. Et comme si le plan de Galactus de dévorer la planète entière et tous ses habitants n’était pas déjà assez mauvais, cela devient soudainement très personnel.",
+    "releaseDate": "2025",
+    "video": "https://vidzy.org/embed-pptmxrpcmonv.html",
+    "trailer": "https://www.youtube.com/embed/sdPlkUZE98I"
   }
 ]
